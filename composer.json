@@ -2,6 +2,7 @@
     "name": "wixnit/serviceauth",
     "description": "authentication for wixnit services",
     "type": "library",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Wixnit\\Serviceauth\\": "src/"
